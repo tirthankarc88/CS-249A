@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+# Output logs
+*.log
+
+# starter code for different platforms
+vs2008/*
+*.cproject
+*.project
+
+# backup files
+*.bak
+*.back
